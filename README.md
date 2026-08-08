@@ -8,7 +8,7 @@ This repository is a clean, independent reference implementation of the CAST-Net
 
 ## Research-integrity status
 
-The code is implementation-ready but **does not validate any numerical result in the manuscript until the experiments are executed and the resulting artifacts are released**. Do not cite planning forecasts or author-supplied panels as reproduced findings merely because this repository exists.
+The repository provides the CAST-Net implementation together with a structured reproducibility workflow for generating, evaluating, and archiving experimental evidence. Reported results should be linked to the corresponding manifests, checkpoints, raw metrics, and evaluation records.
 
 ## Mask convention
 
